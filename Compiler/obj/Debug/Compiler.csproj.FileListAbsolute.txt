@@ -1,0 +1,16 @@
+C:\Users\32475\Desktop\Compiler\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\32475\Desktop\Compiler\Compiler\bin\Debug\Compiler.exe
+C:\Users\32475\Desktop\Compiler\Compiler\bin\Debug\Compiler.pdb
+C:\Users\32475\Desktop\Compiler\Compiler\obj\Debug\Compiler.csproj.AssemblyReference.cache
+C:\Users\32475\Desktop\Compiler\Compiler\obj\Debug\Compiler.csproj.SuggestedBindingRedirects.cache
+C:\Users\32475\Desktop\Compiler\Compiler\obj\Debug\MainWindow.g.cs
+C:\Users\32475\Desktop\Compiler\Compiler\obj\Debug\App.g.cs
+C:\Users\32475\Desktop\Compiler\Compiler\obj\Debug\Compiler_MarkupCompile.cache
+C:\Users\32475\Desktop\Compiler\Compiler\obj\Debug\Compiler_MarkupCompile.lref
+C:\Users\32475\Desktop\Compiler\Compiler\obj\Debug\MainWindow.baml
+C:\Users\32475\Desktop\Compiler\Compiler\obj\Debug\Compiler.g.resources
+C:\Users\32475\Desktop\Compiler\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\32475\Desktop\Compiler\Compiler\obj\Debug\Compiler.csproj.GenerateResource.cache
+C:\Users\32475\Desktop\Compiler\Compiler\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\32475\Desktop\Compiler\Compiler\obj\Debug\Compiler.exe
+C:\Users\32475\Desktop\Compiler\Compiler\obj\Debug\Compiler.pdb
